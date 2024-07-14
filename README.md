@@ -16,7 +16,7 @@ Visit the Chrome Web Store
 Search for "AnyClown"
 Click "Add to Chrome"
 Embrace your inner code clown 🎈
-https://chromewebstore.google.com/search/anyClown
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-AnyClown-blue?style=flat-square&logo=google-chrome)](https://chromewebstore.google.com/search/anyClown)
 
 # 🎪 How to Use
 
