@@ -1,5 +1,3 @@
-# 🤡 AnyClown
-A chrome extension -  url to vscode clone 
 
 Clone any Git URL directly to VS Code with a single click!
 # 🚀 Features
