@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "TargetOps - AnyClown",
-    "version": "1.0",
+    "version": "1.1",
     "description": "TargetOps - AnyClown Clone GitHub, GitLab, or Bitbucket repositories directly to VS Code",
     "permissions": ["activeTab"],
     "host_permissions": [
@@ -24,5 +24,9 @@
     ],
     "action": {
       "default_title": "TargetOps AnyClown to VS Code"
+    },
+    "icons": {
+      "16": "favicon-16x16.png",
+      "32": "favicon-32x32.png"
     }
   }
